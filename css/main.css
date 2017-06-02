@@ -15,10 +15,11 @@
  }
 
  nav{
- 	background: #2C3E50;
- 	background-size: cover;
+ 	background-color: #2C3E50;
+ 	background-size: contain;
  	width: 100%;
  	padding: 40px 0;
+
 
 
  }
@@ -48,7 +49,7 @@ section{
 }
 
  .container{
- 	width: 60%;
+ 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 }
